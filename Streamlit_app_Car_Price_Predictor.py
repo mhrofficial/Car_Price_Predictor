@@ -11,16 +11,16 @@ def main():
     image = Image.open('logo.png')
     st.title("Car_Price_Predictor")
 
-    st.sidebar.image(image, caption=f"MZR Enterprises Pvt. Ltd.", use_column_width=True)
-    st.sidebar.subheader("Welcome to The MZR Enterprises Pvt. Ltd !")
+    st.sidebar.image(image, caption=f"MHR Enterprises Pvt. Ltd.", use_column_width=True)
+    st.sidebar.subheader("Welcome to The MHR Enterprises Pvt. Ltd !")
     
     st.sidebar.subheader(
         "We rent and sales cars. This company is based on second hand or branded new cars. All the facility are available here.")
-    st.sidebar.write("Md Zeeshan Rasheed ", "\n", "Chairman & CEO")
+    st.sidebar.write("Md Hammad Rasheed ", "\n", "Chairman & CEO")
     st.sidebar.subheader('Contact Us.  \n'
-                         'Email:-  mdzeeshanrasheed@gmail.com')
+                         'Email:-  mdhammadr@gmail.com')
 
-    st.sidebar.subheader("+91 8863036281")
+    st.sidebar.subheader("+91 8789322372")
 
     owner1 = {"First Owner": 1, "Second Owner": 2, "Third Owner": 3, "Fourth Owner and Above Owner": 4,
               "Test Drive Car": 5}
