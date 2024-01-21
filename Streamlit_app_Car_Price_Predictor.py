@@ -17,6 +17,7 @@ def main():
     st.sidebar.subheader(
         "We rent and sales cars. This company is based on second hand or branded new cars. All the facility are available here.")
     st.sidebar.write("Md Hammad Rasheed ", "\n", "Chairman & CEO")
+    st.sidebar.write("Md Amash Shams ", "\n", "HR Manager & Partner")
     st.sidebar.subheader('Contact Us.  \n'
                          'Email:-  mdhammadr@gmail.com')
 
