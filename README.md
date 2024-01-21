@@ -13,5 +13,8 @@ Features
 
 Getting Started
 
+Run the App:
+https://carpricepredictorgit-dzjktjwjujrfipwxuzxwtw.streamlit.app/
+
 1. The Repository: 
 https://github.com/mhrofficial/Car_Price_Predictor
